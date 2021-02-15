@@ -26,4 +26,4 @@ I also created a machine learning model using random forests, that can be used t
 
 ## Certificate
 This is to certify that I completed the course from Utiva.
-![Big Data Analytics with Python] (/Big Data Analytics with Python.png)
+![Big Data Analytics with Python](https://github.com/AbiyeDanagogo/predicting-employee-attrition/blob/main/Big%20Data%20Analytics%20with%20Python.png)

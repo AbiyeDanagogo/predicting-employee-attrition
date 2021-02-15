@@ -26,4 +26,4 @@ I also created a machine learning model using random forests, that can be used t
 
 ## Certificate
 This is to certify that I completed the course from Utiva.
-![Big Data Analytics with Python](Big Data Analytics with Python.png)
+![Big Data Analytics with Python] (/Big Data Analytics with Python.png)
